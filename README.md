@@ -15,7 +15,7 @@ Experience the Spider-Man-inspired AI investment dashboard,
 multi-agent analysis, RAG evidence, risk reasoning and
 decision trace.
 
-> ⚠️ Hackathon demo — uses synthetic data.
+> ⚠️ Hackathon demo — uses synthetic data; LLM Key not provided in deployment-Link attached above
 ---
 
 ## 🚀 Architecture
