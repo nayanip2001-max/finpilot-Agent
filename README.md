@@ -7,6 +7,16 @@ FinPilot AI is an **explainable, risk-aware multi-agent investment research syst
 > **Core idea:** Don't just ask *"Is this stock good?"* — ask *"Is it right for this investor?"*
 
 ---
+## 🕷️ Live Demo
+
+🔴 **[Launch FinPilot AI →](https://finpilot-ai.vercel.app)**
+
+Experience the Spider-Man-inspired AI investment dashboard,
+multi-agent analysis, RAG evidence, risk reasoning and
+decision trace.
+
+> ⚠️ Hackathon demo — uses synthetic data.
+---
 
 ## 🚀 Architecture
 
@@ -288,44 +298,6 @@ finpilot-ai/
 │       └── types/
 │
 └── docs/
-```
-
----
-
-## 🔄 API
-
-### Health
-
-```text
-GET /api/health
-```
-
-### Stocks
-
-```text
-GET /api/stocks
-```
-
-### Users
-
-```text
-GET /api/users
-```
-
-### Analysis
-
-```text
-POST /api/analyze
-```
-
-Example:
-
-```json
-{
-  "user_id": "user_001",
-  "symbol": "RELIANCE",
-  "question": "Should I increase my position?"
-}
 ```
 
 ---
