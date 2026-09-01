@@ -47,7 +47,7 @@ Recommendation Explanation
 
 ## 🚨 RAG Dataset, Not MCP
 
-**MCP is NOT required for the current MVP.**
+**MCP is NOT used for the current MVP.**
 
 The financial research documents are stored locally and processed through a RAG pipeline:
 
