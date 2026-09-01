@@ -1,0 +1,20 @@
+{
+  "id": "user_001",
+  "name": "Priya",
+  "data_label": "SYNTHETIC DEMO DATA",
+  "risk_profile": "CONSERVATIVE",
+  "investment_horizon": "LONG",
+  "behavior": {
+    "prefers_large_caps": true,
+    "risk_aversion": 0.85,
+    "average_holding_period_days": 240
+  },
+  "portfolio": {
+    "holdings": [
+      {"symbol": "RELIANCE", "quantity": 120, "avg_cost": 2100.0, "current_value": 275000, "cost_basis": 252000, "daily_pnl": 1200},
+      {"symbol": "HDFCBANK", "quantity": 150, "avg_cost": 1500.0, "current_value": 255000, "cost_basis": 225000, "daily_pnl": 800},
+      {"symbol": "TCS", "quantity": 40, "avg_cost": 3700.0, "current_value": 135000, "cost_basis": 148000, "daily_pnl": -600},
+      {"symbol": "ICICIBANK", "quantity": 60, "avg_cost": 1000.0, "current_value": 60000, "cost_basis": 60000, "daily_pnl": 150}
+    ]
+  }
+}

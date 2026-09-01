@@ -1,0 +1,20 @@
+{
+  "id": "user_003",
+  "name": "Karthik",
+  "data_label": "SYNTHETIC DEMO DATA",
+  "risk_profile": "AGGRESSIVE",
+  "investment_horizon": "SHORT",
+  "behavior": {
+    "prefers_large_caps": false,
+    "risk_aversion": 0.2,
+    "average_holding_period_days": 25
+  },
+  "portfolio": {
+    "holdings": [
+      {"symbol": "RELIANCE", "quantity": 10, "avg_cost": 2280.0, "current_value": 22900, "cost_basis": 22800, "daily_pnl": 150},
+      {"symbol": "INFY", "quantity": 300, "avg_cost": 700.0, "current_value": 232500, "cost_basis": 210000, "daily_pnl": 2100},
+      {"symbol": "ICICIBANK", "quantity": 150, "avg_cost": 680.0, "current_value": 106500, "cost_basis": 102000, "daily_pnl": 900},
+      {"symbol": "TCS", "quantity": 10, "avg_cost": 3300.0, "current_value": 33900, "cost_basis": 33000, "daily_pnl": 250}
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "user_002",
+  "name": "Arjun",
+  "data_label": "SYNTHETIC DEMO DATA",
+  "risk_profile": "MODERATE",
+  "investment_horizon": "MEDIUM",
+  "behavior": {
+    "prefers_large_caps": true,
+    "risk_aversion": 0.5,
+    "average_holding_period_days": 120
+  },
+  "portfolio": {
+    "holdings": [
+      {"symbol": "RELIANCE", "quantity": 30, "avg_cost": 2300.0, "current_value": 68750, "cost_basis": 69000, "daily_pnl": 300},
+      {"symbol": "INFY", "quantity": 200, "avg_cost": 800.0, "current_value": 155000, "cost_basis": 160000, "daily_pnl": -900},
+      {"symbol": "ICICIBANK", "quantity": 180, "avg_cost": 950.0, "current_value": 128000, "cost_basis": 171000, "daily_pnl": 500},
+      {"symbol": "TCS", "quantity": 20, "avg_cost": 3500.0, "current_value": 67800, "cost_basis": 70000, "daily_pnl": 200}
+    ]
+  }
+}
